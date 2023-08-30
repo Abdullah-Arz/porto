@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "head" : "background",
+        "title" : "pink",
+        "percent" : " 10% have this trait"
+    },
+    {
+        "id" : "2",
+        "head" : "body",
+        "title" : "pill",
+        "percent" : " 4% have this trait"
+    },
+    {
+        "id" : "3",
+        "head" : "clothing",
+        "title" : "fur coat",
+        "percent" : " 2% have this trait"
+    },
+    {
+        "id" : "4",
+        "head" : "eyes",
+        "title" : "undercover glass",
+        "percent" : " 3% have this trait"
+    },
+    {
+        "id" : "5",
+        "head" : "background",
+        "title" : "braids",
+        "percent" : " 2% have this trait"
+    }
+]

@@ -1,0 +1,29 @@
+
+.footer-maincontainer {
+    margin: 2em 0 0 0;
+    border-top: 1px solid #0000002c;
+    padding: 3em 0 0 0;
+}
+
+@media screen and (max-width: 391px) and (min-width: 360px) {
+
+    .footer-maincontainer {
+        margin: 2em 0 0 -1em !important;
+    }
+
+    .footer-maincontainer .mb-4 {
+        margin-bottom: 1.5rem !important;
+        font-size: 0.9em;
+    }
+
+    .footer-fs-6 {
+        font-size: 0.8rem !important;
+    }
+
+    .footer-maincontainer .py-2 {
+        padding-top: 0.5rem !important;
+        padding-bottom: 0.5rem !important;
+        font-size: 0.9em !important;
+        margin-top: -11px;
+    }
+}

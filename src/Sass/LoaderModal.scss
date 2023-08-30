@@ -1,0 +1,16 @@
+  // Loader
+
+  #loadermodal-id .modal-content {
+    align-items: center !important;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: transparent !important;
+    background-clip: padding-box;
+    border: none !important;
+    border-radius: 0.5rem;
+    outline: 0;
+    box-shadow: none !important;
+}

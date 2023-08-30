@@ -1,0 +1,32 @@
+[
+        {
+            "id" : "1",
+            "nftName" : "Act of Emotion by Kelly Milligan",
+            "nft_img": "https://imageio.forbes.com/specials-images/imageserve/6170e01f8d7639b95a7f2eeb/Sotheby-s-NFT-Natively-Digital-1-2-sale-Bored-Ape-Yacht-Club--8817-by-Yuga-Labs/0x0.png?format=png&width=960",
+            "view" : "42",
+            "favorite" : "1",
+            "eth" : "0.105",
+            "price" : "139.70"
+        },
+
+        {
+            "id" : "2",
+            "nftName" : "Alien Fren",
+            "nft_img": "https://i.seadn.io/gae/69qTUm0tsLNhaf1WKdcW7VGK7Wu94gPP2KG4b4m84y06kn4IkBITtYxe6-tnq63pS9q0Jjd4PEaZUwsR4L1TR_lFxV5kYZlE8pyY?auto=format&w=1920",
+            "view" : "40",
+            "favorite" : "10",
+            "eth" : "1.10",
+            "price" : "1500.20"
+        },
+
+        {
+            "id" : "3",
+            "nftName" : "Crypto Unicorns Market",
+            "nft_img": "https://i.seadn.io/gcs/files/c3269dfcc7de8dfe2b22fda17e3c1ff5.gif?auto=format&w=1920",
+            "view" : "10",
+            "favorite" : "5",
+            "eth" : "0.50",
+            "price" : "650"
+        }
+    
+]

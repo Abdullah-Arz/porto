@@ -1,0 +1,10 @@
+
+.login-maincontainer .MuiOutlinedInput-input:-webkit-autofill {
+    border-radius: inherit;
+    margin-top: -4px;
+}
+
+.login-maincontainer .MuiInputBase-input:invalid {
+    margin-top: -2px;
+    box-shadow: none;
+}

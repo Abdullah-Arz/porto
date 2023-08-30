@@ -1,0 +1,225 @@
+@import '../variable.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar{
+    background-color: #fff;
+    height: 100vh;
+    width: 20em;
+    margin: 2em 0 0 0;
+}
+
+.top_section {
+    display: flex;
+    align-items: center;
+    padding: 20px 15px;
+}
+
+.bars {
+    display: flex;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.link {
+    display: flex;
+    color: #fff;
+    padding: 10px 15px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+
+.link_text {
+    color: #000;
+}
+
+.accordion {
+    // margin-top: 2em !important;
+}
+
+.sidebar-maincontainer .accordion-button {
+    font-weight: bold !important;
+    font-size: 0.8rem !important;
+}
+
+.sidebar-maincontainer .accordion-button::after {
+    background-image: url('https://cdn-icons-png.flaticon.com/128/1237/1237946.png') !important;
+    transform: rotate(-180deg);
+    background-size: 0.6rem !important;
+    margin-top: -0.9em;
+}
+
+.sidebar-maincontainer .accordion-button:not(.collapsed)::after {
+    background-image: url("https://cdn-icons-png.flaticon.com/128/56/56889.png") !important;
+    transform: rotate(-180deg);
+}
+
+.sidebar-brand-p {
+    font-size: 0.8em;
+    font-family: Open Sans,sans-serif;
+    color: #777;
+}
+
+
+.sidebar-color-maindiv {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    cursor: pointer;
+}
+
+.sidebar-color-div {
+    width: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    height: 2em;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sidebar-color-div-p {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 1em;
+}
+
+.sidebar-color-maindiv1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    cursor: pointer;
+    // align-items: center;
+}
+
+.sidebar-color-div1 {
+    width: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    height: 2em;
+    background-color: #007bff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sidebar-color-div-p1 {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 1em;
+}
+
+.sidebar-color-maindiv2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    cursor: pointer;
+    // align-items: center;
+}
+
+.sidebar-color-div2 {
+    width: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    height: 2em;
+    background-color: rgb(129, 215, 66);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sidebar-color-div-p2 {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 1em;
+}
+
+.sidebar-color-maindiv3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    cursor: pointer;
+    // align-items: center;
+}
+
+.sidebar-color-div3 {
+    width: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    height: 2em;
+    background-color: rgb(96, 133, 165);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sidebar-color-div-p3 {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 1em;
+}
+
+.sidebar-color-maindiv4 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    // align-items: center;
+}
+
+.sidebar-color-div4 {
+    width: 2em;
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    height: 2em;
+    background-color: rgb(171, 110, 110);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.sidebar-color-div-p4 {
+    font-size: 0.8em;
+    margin: 0.5em 0 0 1em;
+}
+
+
+
+.sidebar-size-maindiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar-size-div {
+    border: 1px solid rgba(0, 0, 0, 0.182);
+    width: 2em;
+    height: 1.7em;
+    display: grid;
+    // background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 0 0.2em 0 0.2em;
+}
+
+.sidebar-size-div:hover {
+    // background-color: #000;
+
+    // .sidebar-size-div1-p {
+    //     color: #fff;    
+    // }
+}
+
+
+
+.sidebar-size-div1-p {
+    font-size: 0.8em;
+    text-align: center;
+    color: #777;
+    margin: 0.1em 0 0 0;
+}
+
+.sidebar-accessories-p {
+    font-size: 0.8em;
+    cursor: pointer;
+    color: #777;
+}

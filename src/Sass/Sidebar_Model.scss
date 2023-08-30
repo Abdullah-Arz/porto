@@ -1,0 +1,71 @@
+@import "../variable.scss";
+
+.model {
+  width: 100vw;
+  height: 88.7vh;
+  //   top: 10px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  //   -webkit-animation: slide 0.5s forwards;
+  //   -webkit-animation-delay: 2s;
+  // animation: slide 0.5s forwards;
+  //   animation-delay: 2s;
+}
+
+.overlay {
+  width: 100vw;
+  height: 86.5vh;
+  //   top: 10px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  background-color: rgba(49, 49, 49, 0.5);
+  display: flex;
+  // width: 100%;
+  // height: 80%;
+  justify-content: flex-end;
+  //   -webkit-animation-delay: 2s;
+}
+
+.modal-content {
+  width: 400px;
+  height: 100vh;
+  background-color: $color-white;
+  position: absolute;
+  //   transform: translate(-50%, -50%);
+  // top: 0;
+  // left: 65%;
+  // right: 0;
+  // top: 0;
+  // bottom: 0;
+  // position: relative;
+}
+
+.model-my-wallet-div1 {
+  border-bottom: $border-grey-1px;
+  width: auto;
+  padding: 30px 30px;
+}
+
+.model-my-wallet-icon {
+  font-size: 18px;
+}
+
+.model-my-wallet-span {
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.model-text-div {
+  //   width: 00px;
+  padding: 30px 20px;
+  //   border: $border;
+}
+
+.model-wallet-metamask-div {
+  margin-top: 30px;
+}

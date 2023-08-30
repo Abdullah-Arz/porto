@@ -1,0 +1,14 @@
+@import '../variable.scss';
+
+.cart-accordion-input {
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid $color-grey;
+    padding: 0px 10px;
+}
+
+
+input:focus {
+    outline: none;
+  }

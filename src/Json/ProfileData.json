@@ -1,0 +1,245 @@
+[
+  {
+    "profile": [
+      {
+        "id": "1",
+        "name": "KUMALEON"
+      }
+    ]
+  },
+
+  {
+    "nft_items": [
+      {
+        "id": "1",
+        "name": "items",
+        "quantity": "3.0",
+        "value": "K"
+      },
+      {
+        "id": "2",
+        "name": "Created",
+        "quantity": "Sep",
+        "value": "2022"
+      },
+      {
+        "id": "3",
+        "name": "Creator",
+        "quantity": "fee",
+        "value": "10%"
+      }
+    ]
+  },
+
+  {
+    "total_volume": [
+      {
+        "id": "1",
+        "name": "total volume",
+        "quantity": "585"
+      },
+      {
+        "id": "2",
+        "name": "floor price",
+        "quantity": "0.19"
+      },
+      {
+        "id": "3",
+        "name": "best offer",
+        "quantity": "0.16"
+      },
+      {
+        "id": "4",
+        "name": "listed",
+        "quantity": "15%"
+      },
+      {
+        "id": "5",
+        "name": "unique owners",
+        "quantity": "53%"
+      }
+    ]
+  },
+  {
+    "Cart": [
+      {
+        "id": "1",
+        "name": "Crypto Teddy #1",
+        "price": "0.356",
+        "last_sale": "0.47"
+      },
+      {
+        "id": "2",
+        "name": "Crypto Teddy #2",
+        "price": "0.356",
+        "last_sale": "0.257"
+      },
+      {
+        "id": "3",
+        "name": "Crypto Teddy #3",
+        "price": "0.356",
+        "last_sale": "0.153"
+      },
+      {
+        "id": "4",
+        "name": "Crypto Teddy #4",
+        "price": "0.356",
+        "last_sale": "0.250"
+      },
+      {
+        "id": "5",
+        "name": "Crypto Teddy #1",
+        "price": "0.356",
+        "last_sale": "0.47"
+      },
+      {
+        "id": "6",
+        "name": "Crypto Teddy #2",
+        "price": "0.356",
+        "last_sale": "0.257"
+      },
+      {
+        "id": "7",
+        "name": "Crypto Teddy #3",
+        "price": "0.356",
+        "last_sale": "0.153"
+      },
+      {
+        "id": "8",
+        "name": "Crypto Teddy #4",
+        "price": "0.356",
+        "last_sale": "0.250"
+      },
+      {
+        "id": "9",
+        "name": "Crypto Teddy #3",
+        "price": "0.356",
+        "last_sale": "0.153"
+      },
+      {
+        "id": "10",
+        "name": "Crypto Teddy #4",
+        "price": "0.356",
+        "last_sale": "0.250"
+      }
+    ]
+  },
+  {
+    "low_to_high_price": [
+      {
+        "id": "1",
+        "name": "Recently listed"
+      },
+      {
+        "id": "2",
+        "name": "Recently created"
+      },
+      {
+        "id": "3",
+        "name": "Recently sold"
+      }
+    ]
+  },
+  {
+    "profile": [
+      {
+        "id": "1",
+        "token": "12041448"
+      },
+      {
+        "id": "2",
+        "nft_name": "Teddy #1"
+      },
+      {
+        "id": "3",
+        "quantity": "100",
+        "owned_by": "F5D9A8",
+        "views": "103",
+        "favorite": "1",
+        "ether": "0.0001",
+        "dollar_price": "0.14"
+      }
+    ],
+    "details": [
+      {
+        "id": "1",
+        "contractaddress": "0x0023...5789",
+        "tokenid": "3866",
+        "standard": "ERC-721",
+        "blockchain": "Ethereum",
+        "last_updated": "2 days ago",
+        "creator_earnings": "10%"
+      }
+    ],
+    "offers": [
+      {
+        "id": "1",
+        "eth": "0.443",
+        "dollar": "57.27",
+        "floor": "19",
+        "expiration": "25 minutes",
+        "from": "317CAO"
+      },
+      {
+        "id": "2",
+        "eth": "0.443",
+        "dollar": "57.27",
+        "floor": "19",
+        "expiration": "25 minutes",
+        "from": "317CAO"
+      },
+      {
+        "id": "3",
+        "eth": "0.443",
+        "dollar": "57.27",
+        "floor": "19",
+        "expiration": "25 minutes",
+        "from": "317CAO"
+      },
+      {
+        "id": "4",
+        "eth": "0.443",
+        "dollar": "57.27",
+        "floor": "19",
+        "expiration": "25 minutes",
+        "from": "317CAO"
+      },
+      {
+        "id": "5",
+        "eth": "0.443",
+        "dollar": "57.27",
+        "floor": "19",
+        "expiration": "25 minutes",
+        "from": "317CAO"
+      }
+    ]
+  },
+  {
+    "item_activity": [
+      {
+        "id": "1",
+        "transfer": "Tranfer",
+        "price": "0.1111",
+        "from": "Griffden",
+        "to": "platini.eth",
+        "date": "3"
+      },
+      {
+        "id": "2",
+        "transfer": "Tranfer",
+        "price": "0.1111",
+        "from": "Griffden",
+        "to": "platini.eth",
+        "date": "3"
+      },
+      {
+        "id": "3",
+        "transfer": "Tranfer",
+        "price": "0.1111",
+        "from": "Griffden",
+        "to": "platini.eth",
+        "date": "3"
+      }
+    ]
+  }
+]

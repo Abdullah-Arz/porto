@@ -1,0 +1,19 @@
+
+.SignUp-maincontainer .MuiOutlinedInput-input:-webkit-autofill {
+    border-radius: inherit;
+    margin-top: -4px;
+}
+
+.SignUp-maincontainer .MuiInputBase-input:invalid {
+    margin-top: -2px;
+    box-shadow: none;
+}
+
+// input[id='phone_number'] {
+//     -moz-appearance:textfield;
+// }
+
+// .SignUp-maincontainer input::-webkit-outer-spin-button,
+// input::-webkit-inner-spin-button {
+//     -webkit-appearance: none;
+// }

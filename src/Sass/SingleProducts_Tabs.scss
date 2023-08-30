@@ -1,0 +1,42 @@
+.singleProduct-tab-maindiv .mb-3 {
+    margin-bottom: 1rem !important;
+    width: 45em;
+    margin: 0 0 0 2.3em;
+}
+
+.singleProduct-tab-maindiv>.tab-content>.active {
+    display: block;
+    margin: 0 0 0 2.4em;
+}
+
+.singleProduct-tab-icon-div {
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 2em;
+}
+
+.singleProduct-tab-icon {
+    font-size: 1em;
+    margin: 0.3em 0.5em 0 0;
+}
+
+.singleProduct-tab-p {
+    font-family: Open Sans,sans-serif !important;
+    font-size: 0.9em !important;
+    color: #7b858a;
+    line-height: 1.92;
+}
+
+.singleProduct-tab-size-tab {
+    display: flex;
+    flex-direction: row;
+}
+
+.singleProduct-tab-size-tab-img {
+    margin: 1em 4em 2em 4em;
+}
+
+.singleProduct-tab-maindiv .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: rgb(34, 37, 41) !important;
+    border-color: rgb(34, 37, 41) !important;
+}
